@@ -1,0 +1,18 @@
+vineethgongati/backend                    latest                                                                        e6df090f0664   13 minutes ago   230MB
+vineethgongati/frontend                   latest                                                                        d7efda97e48b   13 minutes ago   92.6MB
+REPOSITORY                                TAG                                                                           IMAGE ID       CREATED          SIZE
+vineethgongati/backend                    latest                                                                        e6df090f0664   13 minutes ago   230MB
+vineethgongati/frontend                   latest                                                                        d7efda97e48b   13 minutes ago   92.6MB
+gcr.io/k8s-minikube/kicbase               v0.0.50                                                                       b97074569ae9   2 months ago     1.94GB
+gcr.io/k8s-minikube/kicbase               <none>                                                                        eb4fec00e8ad   2 months ago     1.94GB
+docker/desktop-kubernetes                 kubernetes-v1.34.1-cni-v1.7.1-critools-v1.33.0-cri-dockerd-v0.3.20-1-debian   12d6673564e0   7 months ago     591MB
+registry.k8s.io/kube-apiserver            v1.34.1                                                                       b9d7c117f8ac   7 months ago     118MB
+registry.k8s.io/kube-controller-manager   v1.34.1                                                                       2bf47c1b01f5   7 months ago     101MB
+registry.k8s.io/kube-scheduler            v1.34.1                                                                       6e9fbc4e25a5   7 months ago     73.5MB
+registry.k8s.io/kube-proxy                v1.34.1                                                                       913cc83ca0b5   7 months ago     102MB
+registry.k8s.io/etcd                      3.6.4-0                                                                       e36c08168342   9 months ago     273MB
+registry.k8s.io/pause                     3.10.1                                                                        278fb9dbcca9   10 months ago    1.06MB
+registry.k8s.io/coredns/coredns           v1.12.1                                                                       e8c262566636   12 months ago    101MB
+registry.k8s.io/pause                     3.10                                                                          ee6521f290b2   23 months ago    1.06MB
+docker/desktop-vpnkit-controller          dc331cb22850be0cdd97c84a9cfecaf44a1afb6e                                      7ecf567ea070   2 years ago      47MB
+docker/desktop-storage-provisioner        v2.0                                                                          115d77efe6e2   4 years ago      59.2MB
